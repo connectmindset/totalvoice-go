@@ -10,11 +10,11 @@ Sempre verifique no branch **master** - para ver se o bug relatado ainda não fo
 
 ## Issues
 
-Encontrou algum problema? Nós aceitamos suas sugestões ou relatos de bugs criados [aqui](https://github.com/totalvoice/totalvoice-go/issues). 
+Encontrou algum problema? Nós aceitamos suas sugestões ou relatos de bugs criados [aqui](https://github.com/connectmindset/totalvoice-go/issues). 
 
 ## Pull Requests
 
-Todas as solicitações de melhoria serão muito bem vindas, se você deseja contribuir para que a biblioteca se torne cada vez melhor, abra um Pull Request [aqui](https://github.com/totalvoice/totalvoice-go/pulls).
+Todas as solicitações de melhoria serão muito bem vindas, se você deseja contribuir para que a biblioteca se torne cada vez melhor, abra um Pull Request [aqui](https://github.com/connectmindset/totalvoice-go/pulls).
 
 - Adição de testes unitários obrigatórios;
 - Atualização da documentação (atualize o README.md);

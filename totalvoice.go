@@ -1,7 +1,7 @@
 package totalvoice
 
 import (
-	"github.com/totalvoice/totalvoice-go/api"
+	"github.com/connectmindset/totalvoice-go/api"
 )
 
 // BaseURI - URI Base

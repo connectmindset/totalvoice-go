@@ -1,6 +1,6 @@
 package api
 
-import "github.com/totalvoice/totalvoice-go/api/model"
+import "github.com/connectmindset/totalvoice-go/api/model"
 
 type WebhookDefaultService struct {
 	client   HTTPClient
