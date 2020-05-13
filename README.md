@@ -25,7 +25,7 @@ Cliente em Golang para consumo da API da TotalVoice
 Para instalar a biblioteca basta digitar
 
 ```sh
-go get github.com/totalvoice/totalvoice-go
+go get github.com/connectmindset/totalvoice-go
 ```
 > ### Utilização
 
@@ -57,7 +57,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -81,7 +81,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -106,7 +106,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -130,7 +130,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -164,7 +164,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -188,7 +188,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -215,7 +215,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -240,7 +240,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -270,7 +270,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -297,7 +297,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -321,7 +321,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -349,7 +349,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -373,7 +373,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -397,7 +397,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -420,7 +420,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -444,7 +444,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -468,7 +468,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -492,7 +492,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -516,7 +516,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/totalvoice/totalvoice-go"
+	"github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -540,7 +540,7 @@ package main
 import (
     "fmt"
 
-    "github.com/totalvoice/totalvoice-go"
+    "github.com/connectmindset/totalvoice-go"
 )
 
 func main() {
@@ -561,8 +561,8 @@ Mais informações sobre os métodos disponíveis podem ser encontrados na docum
 
 > ### Contribua!
 
-Quer contribuir? [clique aqui](https://github.com/totalvoice/totalvoice-go/blob/master/CONTRIBUTING.md)
+Quer contribuir? [clique aqui](https://github.com/connectmindset/totalvoice-go/blob/master/CONTRIBUTING.md)
 
 > ### Licença
 
-Esta biblioteca segue os termos de uso da [MIT](https://github.com/totalvoice/totalvoice-go/blob/master/LICENSE)
+Esta biblioteca segue os termos de uso da [MIT](https://github.com/connectmindset/totalvoice-go/blob/master/LICENSE)

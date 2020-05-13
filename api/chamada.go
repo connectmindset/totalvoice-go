@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/totalvoice/totalvoice-go/api/model"
+	"github.com/connectmindset/totalvoice-go/api/model"
 )
 
 // ChamadaService service

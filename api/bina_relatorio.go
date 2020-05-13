@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/totalvoice/totalvoice-go/api/model"
+	"github.com/connectmindset/totalvoice-go/api/model"
 )
 
 // BinaRelatorioService service
