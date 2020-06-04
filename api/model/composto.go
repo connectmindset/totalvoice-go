@@ -6,7 +6,7 @@ import (
 
 // Composto struct
 type Composto struct {
-	NumeroDestino string `json:"numero_destino"`
+	NumeroDestino []string `json:"numero_destino"`
 	Dados  []Acao `json:"dados"`
 	Bina   string `json:"bina"`
 	Tags   string `json:"tags"`
