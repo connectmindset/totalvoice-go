@@ -1,5 +1,7 @@
-module github.com/connectmindset/totalvoice-go
+module github.com/harvest-hub/totalvoice-go
 
 go 1.14
 
-require github.com/stretchr/testify v1.5.1
+require (
+	github.com/stretchr/testify v1.5.1
+)

@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/connectmindset/totalvoice-go/api/model"
+	"github.com/harvest-hub/totalvoice-go/api/model"
 )
 
 // RamalRelatorioService service

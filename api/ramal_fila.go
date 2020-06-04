@@ -2,7 +2,7 @@ package api
 
 import (
 	"strconv"
-	"github.com/connectmindset/totalvoice-go/api/model"
+	"github.com/harvest-hub/totalvoice-go/api/model"
 )
 
 // RamalFilaService service

@@ -1,6 +1,6 @@
 package api
 
-import "github.com/connectmindset/totalvoice-go/api/model"
+import "github.com/harvest-hub/totalvoice-go/api/model"
 
 // ContaRelatorioService service
 type ContaRelatorioService struct {
