@@ -7,6 +7,6 @@ type TotalVoiceResponse struct {
 	Motivo   int    `json:"motivo"`
 	Mensagem string `json:"mensagem"`
 	Dados    struct {
-		IDS []int `json:"id"`
+		ID int `json:"id"`
 	} `json:"dados"`
 }
