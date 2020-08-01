@@ -11,6 +11,7 @@ type Composto struct {
 	Bina   string `json:"bina"`
 	Tags   string `json:"tags"`
 	GravarAudio bool `json:"gravar_audio"`
+	DetectaCaixa bool `json:"detecta_caixa"`
 }
 
 // AddAcao - Adiciona uma ação no JSON
